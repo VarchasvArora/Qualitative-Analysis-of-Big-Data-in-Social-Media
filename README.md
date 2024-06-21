@@ -1,1 +1,1 @@
-# Qua-itative-Analysis-of-Big-Data-in-Social-Media
+# Qualitative-Analysis-of-Big-Data-in-Social-Media
